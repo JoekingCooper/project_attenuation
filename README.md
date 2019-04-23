@@ -1,1 +1,3 @@
 # project_attenuation
+
+This is an mysterious project with no information ...
